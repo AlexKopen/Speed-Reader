@@ -1,0 +1,51 @@
+html,body,div,p,span,textarea,button{
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	width: 200px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+p{
+	font-size: 30px;
+	line-height: 50px;
+	font-family: 'Noto Serif', serif;
+}
+
+div#current_text{
+	width: 200px;
+	height: 50px;
+	background: #e8e8e8;
+	margin-top: -10px;
+}
+
+.point{
+	width: 200px;
+}
+
+#top{
+
+}
+
+#bottom{
+	margin-top: -10px;
+}
+
+.point_line{
+	margin-left: 75px;
+}
+
+
+textarea{
+	width: 200px;
+	height:200px;
+	margin-top: 20px;
+}
+
+
+#red{
+	color:red;
+}
